@@ -1,2 +1,3 @@
 nom = input("Quel est votre nom, svp : ")
-print('Salut ', nom)
+age = input("Quel est votre age, svp : ")
+print('Salut ', nom, "Vous avez ", age, 'ans')
